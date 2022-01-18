@@ -1,0 +1,11 @@
+"npm init vite@latest"
+"npm i"
+"npm i autoprefixer postcss tailwindcss"
+"npx tailwind init -p"
+Colocar @taildwind en el index.css
+Colocar "index.html","./src/**/*.jsx" en el content del tailwind.config
+"npm i react-router-dom"
+"npm i formik yup" formik para tomar los valores del formulario y yup para la validacion
+"npm install -g json-server" para la REST API
+"npm i axios" hacer peticiones a la bd
+"npm i --save react-dropzone" para arrastrar archivos o exportarlos

@@ -1,0 +1,12 @@
+{
+  "productos": [
+    {
+      "nombre": "asdasd",
+      "empresa": "asdasd",
+      "email": "asdasd@doc.om",
+      "telefono": "232323",
+      "notas": "asdasd",
+      "id": 1
+    }
+  ]
+}
